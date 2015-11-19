@@ -1,0 +1,13 @@
+{
+  "name": "pairup",
+  "version": "1.0.0",
+  "description": "Enables screensharing and copies address to the clipboard. OSX only.",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "adwilk@mac.com",
+  "license": "ISC"
+}
